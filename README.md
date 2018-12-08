@@ -11,8 +11,14 @@
 * hello-world
 
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
-## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+## Link to live site on GitHub Pages
+* https://github.com/Perpetue/cookie-recipe 
+* https://github.com/Perpetue/my-first-website
+* https://github.com/Perpetue/perpetue
+* https://github.com/Perpetue/hello-world
+* https://github.com/Perpetue/test
+* https://github.com/Perpetue/new
+                            
 ## Technologies Used
 {About the languages and tools I used to create this project. Assume that I know you probably used HTML and CSS.}
 ## Support and contact details
