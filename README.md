@@ -1,5 +1,5 @@
-# perpetue {project portfolio}
-#### {my project created ,i am using languages HTML and CSS}, {05 DEC 2018}
+# Perpetue {Project portfolio}
+#### {My project created  AS PROJECT PORTFOLIO}, {05 DEC 2018}
 #### By **{PERPETUE MUHAWENIMANA}**
 ## Description
 {My project portfolio, concluding my name ,my picture,  my project created ,my background and my current interests and hobies/skill. }
