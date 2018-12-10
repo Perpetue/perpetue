@@ -45,7 +45,7 @@
   }
   
   span{
-      font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      font-family:Impact, 'Arial Narrow Bold', sans-serif;
   }
   #about,#container{
 display: block
@@ -53,6 +53,7 @@ display: block
   }
 
   .social{
-      text-align: right;
+      text-align: center;
+      background-color:#8A2BE2;
     
   }
