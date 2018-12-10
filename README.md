@@ -1,6 +1,6 @@
 # Project portfolio
 #### My project created  AS PROJECT PORTFOLIO, 05 DEC 2018
-#### By **PERPETUE MUHAWENIMANA**
+#### By **Moringa school,Wecode program**
 
 ## Description
 My project portfolio, concluding my name ,my picture,  my project created ,my background and my current interests and hobies/skill. 
