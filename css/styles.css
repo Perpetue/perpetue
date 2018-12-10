@@ -12,36 +12,26 @@
       display:inline-block;
     }
     nav>ul>li>a{
-      padding:18px;
+      padding:5px;
       text-transform:uppercase;
       text-decoration:none;
       color:blue;
       margin-top:5px;
   }
   #about{
-      text-align:left;
-      margin-left: 5px;
-      margin-right: 5px;
-      font-size: 20px;
-   
+      font-size: 18px;
+        margin: 10px;
       }
-      .identification{
-          text-align:left;
-          font-size: 20px;
-          margin-left: 5px;
-          margin-right: 5px;
-     
-      }
-  #background,#hobbies{
-   font-size: 20px;
-   margin-left: 5px;
-   margin-right: 5px;
-   padding: 5px;
+ #container{
+    font-size: 18px;
+      margin: 10px;
+
+ }
    
-  }
+  
   .program{
-      padding:10px;
-      font-size: 20px;
+      padding:5px;
+      font-size: 18px;
       margin-left: 5px;
       margin-right: 5px;
       
@@ -53,10 +43,16 @@
       margin-inline-start: 0px;
       margin-inline-end: 0px;
   }
-  .social{
-      text-align: right;
-  }
+  
   span{
       font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   }
-  
+  #about,#container{
+display: block
+
+  }
+
+  .social{
+      text-align: right;
+    
+  }
