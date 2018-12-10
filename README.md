@@ -1,8 +1,3 @@
-
-# {Project portfolio}
-#### {My project created  AS PROJECT PORTFOLIO}, {05 DEC 2018}
-#### By **{PERPETUE MUHAWENIMANA}**
-
 # Project portfolio
 #### My project created  AS PROJECT PORTFOLIO, 05 DEC 2018
 #### By **PERPETUE MUHAWENIMANA**
