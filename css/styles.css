@@ -1,6 +1,6 @@
 @media screen and (min-width: 480px) {
     body {
-      background-color:#ADD8E6 ;
+      background-color:#F0FFFF;
       font-family: verdana
     }
   }
@@ -52,5 +52,11 @@
       margin-block-end: 1em;
       margin-inline-start: 0px;
       margin-inline-end: 0px;
+  }
+  .social{
+      text-align: right;
+  }
+  span{
+      font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   }
   
