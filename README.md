@@ -1,8 +1,8 @@
-# {Project portfolio}
-#### {My project created  AS PROJECT PORTFOLIO}, {05 DEC 2018}
-#### By **{PERPETUE MUHAWENIMANA}**
+# Project portfolio
+#### My project created  AS PROJECT PORTFOLIO, 05 DEC 2018
+#### By **PERPETUE MUHAWENIMANA**
 ## Description
-{My project portfolio, concluding my name ,my picture,  my project created ,my background and my current interests and hobies/skill. }
+My project portfolio, concluding my name ,my picture,  my project created ,my background and my current interests and hobies/skill. 
 ## My project created:
 * project portfolio
 * Delani_studio_site :Demonstrates forking to Moringa Prep Students
@@ -11,14 +11,14 @@
 * New project of pet
 * hello-world
 
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?
 ## Link to live site on GitHub Pages
 https://perpetue.github.io/portfolio-projects/index1.html
 ## Technologies Used
-{About the languages and tools I used to create this project. Assume that I know you probably used HTML ,CSS and Markdown.}
+About the languages and tools I used to create this project. Assume that I know you probably used HTML ,CSS and Markdown.
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact me at E-mail:muperpety@gmail.com and Tel.Number:0786309745}
+Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact me at E-mail:muperpety@gmail.com and Tel.Number:0786309745
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*Determine the license under which this application can be used.  See below for more details on licensing.*
 Copyright (c) {2018} **{PERPETUE MUHAWENIMANA}**
   
