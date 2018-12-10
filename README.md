@@ -21,6 +21,5 @@ About the languages and tools I used to create this project. Assume that I know 
 ## Support and contact details
 Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact me at E-mail:muperpety@gmail.com and Tel.Number:0786309745
 ### License
-*Determine the license under which this application can be used.  See below for more details on licensing.*
-Copyright (c) {2018} **{PERPETUE MUHAWENIMANA}**
+ * Copyright (c) 2018 PERPETUE MUHAWENIMANA
   
