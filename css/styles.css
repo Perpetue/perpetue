@@ -45,9 +45,12 @@
   
 
   .social{
-      text-align: center;
+      text-align:right;
       background-color:	#778899;
     
+  }
+  .social footer{
+   text-align: center; 
   }
 
   img{
