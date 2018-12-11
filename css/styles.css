@@ -1,7 +1,8 @@
 @media screen and (min-width: 480px) {
     body {
-      background-color:#F0FFFF;
+      background-color:#B0C4DE;
       font-family: verdana
+      background-size:cover
     }
   }
   
@@ -20,15 +21,16 @@
   }
   #about{
       font-size: 18px;
-        margin: 10px;
+      margin-left: 60px;
+      margin-right: 60px;
       }
  #container{
     font-size: 18px;
       margin: 10px;
+      margin-left: 60px;
+      margin-right: 60px;
 
  }
-   
-  
   .program{
       padding:5px;
       font-size: 18px;
@@ -36,23 +38,31 @@
       margin-right: 5px;
       
   }
-  p {
-      display: block;
-      margin-block-start: 1em;
-      margin-block-end: 1em;
-      margin-inline-start: 0px;
-      margin-inline-end: 0px;
-  }
   
   span{
       font-family:Impact, 'Arial Narrow Bold', sans-serif;
   }
-  #about,#container{
-display: block
-  }
+  
 
   .social{
       text-align: center;
-      background-color:#8A2BE2;
+      background-color:	#778899;
     
+  }
+
+  img{
+    float:left;
+    margin-right: 60px;
+  }
+  #about ol li{
+    padding: 5px;
+    padding-left: 5px;
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+  #container ol li{
+    padding: 5px;
+    padding-left: 5px;
+    margin-left: 30px;
+    margin-right: 30px;
   }
